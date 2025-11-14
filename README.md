@@ -33,6 +33,4 @@
 ---
 
 ## 📫 Contact
-- ybs1923@gmail.com
-- Email: boseong@example.com  
-- Portfolio Website (GitHub Pages): https://boseong.github.io  
+- Email: ybs1923@gmail.com
