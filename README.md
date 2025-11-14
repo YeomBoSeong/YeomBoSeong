@@ -8,10 +8,10 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages**: Python, C/C++, C#, Java
-**Back-end**: FastAPI, SQLite, AWS EC2, WebSocket
-**ML/AI**: PyTorch, OpenCV, Scikit-learn  
-**Game Dev**: Unity    
+- **Languages**: Python, C/C++, C#, Java
+- **Back-end**: FastAPI, SQLite, AWS EC2, WebSocket
+- **ML/AI**: PyTorch, OpenCV, Scikit-learn  
+- **Game Dev**: Unity    
 
 ---
 
