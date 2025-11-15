@@ -28,7 +28,7 @@
 - 교내 "소프트웨어 개발 원리 및 실습" 수업 프로젝트
 - Scrum 개발 주기에서 Project Manager 및 Unity 담당 
 - 학생 간 투표 1위 
-- ➡️ **Repo**: https://github.com/SWPP-2025SPRING/team-project-for-2025-spring-swpp-team-01
+- ➡️ **Repo**: https://github.com/SWPP-2025SPRING/team-project-for-2025-spring-swpp-team-01 (check develop branch)
 
 ---
 
