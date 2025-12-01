@@ -19,7 +19,7 @@
 
 ### 🔹 Valhalla of Quoridor (Unity · Mobile Game)
 - Viking 테마의 Quoridor 전략 게임  
-- AWS FastAPI 서버, JWT, 실시간 WebSocket 매칭  
+- AWS EC2 서버, FastAPI, JWT, 실시간 WebSocket
 - Google Play Store 출시 준비 중  
 - ➡️ **Repo**: https://github.com/YeomBoSeong/Quoridor_App
 -  <details>
