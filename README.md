@@ -43,8 +43,22 @@
   - Scrum · Team Collaboration
 - ➡️ **Repo**: https://github.com/SWPP-2025SPRING/team-project-for-2025-spring-swpp-team-01 (check develop branch)
 - <details>
-    <summary>Photos</summary>
-    <img width="250" height="150" alt="스크린샷 2025-11-16 105209" src="https://github.com/user-attachments/assets/0e3712db-13c8-4700-82f2-eaa912f3b570" /> <img width="250" height="150" alt="스크린샷 2025-11-16 105231" src="https://github.com/user-attachments/assets/9f27c308-efc6-414f-aefa-1abf5e1db8d7" /> <img width="250" height="150" alt="스크린샷 2025-11-16 105244" src="https://github.com/user-attachments/assets/110ffb16-a892-4ecd-871a-5478ec407694" /> <img width="250" height="150" alt="스크린샷 2025-11-16 103052" src="https://github.com/user-attachments/assets/94aa9470-54a7-483b-98a7-fea80b90fda1" /> <img width="250" height="150" alt="스크린샷 2025-11-16 103248" src="https://github.com/user-attachments/assets/e9349004-3a8b-4dec-9320-b64d46b50872" /> <img width="250" height="150" alt="스크린샷 2025-11-16 103341" src="https://github.com/user-attachments/assets/fe8b0f10-d38b-44f2-b260-942612abff6b" /><img width="250" height="150" alt="스크린샷 2025-11-16 104859" src="https://github.com/user-attachments/assets/fc45102d-7964-41f3-8afe-c1c5b6a3d6a5" /> <img width="250" height="150" alt="스크린샷 2025-11-16 104953" src="https://github.com/user-attachments/assets/cf06741f-2f1a-4193-b183-e150914f2985" /> <img width="250" height="150" alt="스크린샷 2025-11-16 105127" src="https://github.com/user-attachments/assets/1b0e78fd-4608-4a8b-8d1d-518010d46088" />
+  <summary>Photos</summary>
+
+  <img width="250" height="150" alt="스크린샷 2025-11-16 105209" src="https://github.com/user-attachments/assets/0e3712db-13c8-4700-82f2-eaa912f3b570" />
+  <img width="250" height="150" alt="스크린샷 2025-11-16 105231" src="https://github.com/user-attachments/assets/9f27c308-efc6-414f-aefa-1abf5e1db8d7" />
+  <img width="250" height="150" alt="스크린샷 2025-11-16 105244" src="https://github.com/user-attachments/assets/110ffb16-a892-4ecd-871a-5478ec407694" />
+  <img width="250" height="150" alt="스크린샷 2025-11-16 103052" src="https://github.com/user-attachments/assets/94aa9470-54a7-483b-98a7-fea80b90fda1" />
+  <img width="250" height="150" alt="스크린샷 2025-11-16 103248" src="https://github.com/user-attachments/assets/e9349004-3a8b-4dec-9320-b64d46b50872" />
+  <img width="250" height="150" alt="스크린샷 2025-11-16 103341" src="https://github.com/user-attachments/assets/fe8b0f10-d38b-44f2-b260-942612abff6b" />
+  <img width="250" height="150" alt="스크린샷 2025-11-16 104859" src="https://github.com/user-attachments/assets/fc45102d-7964-41f3-8afe-c1c5b6a3d6a5" />
+  <img width="250" height="150" alt="스크린샷 2025-11-16 104953" src="https://github.com/user-attachments/assets/cf06741f-2f1a-4193-b183-e150914f2985" />
+  <img width="250" height="150" alt="스크린샷 2025-11-16 105127" src="https://github.com/user-attachments/assets/1b0e78fd-4608-4a8b-8d1d-518010d46088" />
+
+  <img width="400" alt="Team01_work - Sprint1" src="https://github.com/user-attachments/assets/2863bca4-e1b2-44d8-9c12-44d356ea11ef" />
+  <img width="400" alt="Team01_work - Metric" src="https://github.com/user-attachments/assets/af5fd8b7-b510-421c-814e-bfcaf3b7a57c" />
+
+</details>
 
 
 ### 🔹 Destiny House Management (Spring Boot · Web Service)
