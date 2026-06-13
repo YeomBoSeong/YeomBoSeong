@@ -1,7 +1,6 @@
 # Hi, I'm Boseong Yeom 👋  
 
 ## 🚀 About Me
-- 👨‍🎓 SNU ECE (Graduation: 2026)
 - 🎮 Creator of **Valhalla of Quoridor** (Unity Mobile Game)
 - 🏠 Developed a real-world web service **Destiny House Management** for a property management company
 - 🧠 Interested in Back-end, Machine Learning, Game Development, and Mobile app Developmet.
