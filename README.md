@@ -84,6 +84,18 @@
   - Pdfplumber, Olefile, Zipfile (문서 파싱 및 압축 관리)
 - ➡️ **Repo**: https://github.com/YeomBoSeong/ALIO_Certificates_NCS_Statics
 
+### 🔹 김비서 (Android · AI Assistant App)
+- Claude API 기반 안드로이드 개인 비서 앱 (Claude Desktop의 모바일 버전 목표)
+- LLM이 tool use로 폰 화면 조작, 파일, 연락처, 캘린더, 문자 등 28개 도구를 직접 호출
+- 결제·발송·삭제 등 위험 작업은 사용자 확인 후 실행, API 키는 기기 내 암호화 저장 (BYOK)
+- 접근성 서비스 특성상 스토어 등록이 불가능해 웹사이트에서 APK 직접 배포
+- **Tech**
+  - Kotlin, Jetpack Compose, Android AccessibilityService
+  - Anthropic API (tool use)
+  - Next.js, Vercel, Upstash Redis (소개·다운로드 사이트)
+- 🔗 Website: https://secretarykim.net/
+- ➡️ **Repo**: https://github.com/YeomBoSeong/SecretaryKim
+
 ---
 
 ## 📫 Contact
