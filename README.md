@@ -72,7 +72,7 @@
   - Spring Boot 4.0.0, Java 25, Spring Security
   - Spring Data JPA, H2 (File-based)
   - Thymeleaf, Bootstrap 5.3
-- 🔗 Website: https://운명주택관리.com  
+- 🔗 Website: https://운명주택관리.com (관리자 페이지: https://운명주택관리.com/admin/ ID: abc123 PW: def567)
 - ➡️ **Repo**: https://github.com/YeomBoSeong/Destiny_House_Management
 
 ### 🔹 십자 땅따먹기 (Node.js · Web Game)
