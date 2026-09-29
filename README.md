@@ -51,7 +51,7 @@
   <img width="400" alt="Team01_work - Metric" src="https://github.com/user-attachments/assets/af5fd8b7-b510-421c-814e-bfcaf3b7a57c" />
 </details>
 
-### 🔹 DRAM 테스트 패턴 IR 동일성 판단 (Python · 서울대 졸업 프로젝트)
+### 🔹 DRAM 테스트 패턴 IR 동일성 판단 (졸업 프로젝트)
 - 반도체 검사장비(ATE) 간 이식을 위한 DRAM 테스트 패턴 IR(Intermediate Representation) 동일성 판단 연구 (서울대 전기·정보공학부 졸업 프로젝트)
 - 동치·비동치 쌍 대량 생성 데이터 파이프라인 설계·구현 (트리 DSL + 루프 분할/병합/중첩 등 의미 보존 변환)
 - GPT-4.1 LLM Judge와 직접 구현한 Rabin-Karp 이중 다항식 해싱 알고리즘의 정확도·속도 비교
